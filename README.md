@@ -1,2 +1,2 @@
 # SimpleCalculator
-Fushion tech internship
+Fusion tech internship
